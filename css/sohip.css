@@ -9798,17 +9798,17 @@ form .row:first-child .floating-label-form-group {
   width: 50%
 }
 
-#clients {
+#builds {
   padding: 60px 0
 }
 
-#clients .clients-wrap {
-  border-top: 1px solid #d6eaff;
-  border-left: 1px solid #d6eaff;
+#builds .builds-wrap {
+  /*border-top: 1px solid #d6eaff;
+  border-left: 1px solid #d6eaff;*/
   margin-bottom: 30px
 }
 
-#clients .client-logo {
+#builds .build-logo {
   padding: 64px;
   display: -webkit-box;
   display: -webkit-flex;
@@ -9822,14 +9822,14 @@ form .row:first-child .floating-label-form-group {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  border-right: 1px solid #d6eaff;
-  border-bottom: 1px solid #d6eaff;
+  /*border-right: 1px solid #d6eaff;
+  border-bottom: 1px solid #d6eaff;*/
   overflow: hidden;
   background: #fff;
   height: 160px
 }
 
-#clients img {
+#builds img {
   transition: all 0.4s ease-in-out
 }
 
